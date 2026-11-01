@@ -1,0 +1,131 @@
+{
+  "width": 654,
+  "height": 852,
+  "ROI": [
+    0,
+    40,
+    490,
+    815
+  ],
+  "totalFirePixels": 131798,
+  "components": [
+    {
+      "area": 129464,
+      "x0": 6,
+      "x1": 488,
+      "y0": 112,
+      "y1": 789
+    },
+    {
+      "area": 2334,
+      "x0": 147,
+      "x1": 230,
+      "y0": 62,
+      "y1": 98
+    }
+  ],
+  "rows": [
+    {
+      "color": "deepBlue",
+      "pixels": 31103,
+      "percent": 23.598992397456716,
+      "median": [
+        2,
+        8,
+        85
+      ],
+      "hex": "#020855"
+    },
+    {
+      "color": "brightBlue",
+      "pixels": 30157,
+      "percent": 22.881227332736458,
+      "median": [
+        30,
+        81,
+        206
+      ],
+      "hex": "#1e51ce"
+    },
+    {
+      "color": "cyan",
+      "pixels": 25986,
+      "percent": 19.71653591101534,
+      "median": [
+        154,
+        226,
+        250
+      ],
+      "hex": "#9ae2fa"
+    },
+    {
+      "color": "white",
+      "pixels": 24683,
+      "percent": 18.7279017891015,
+      "median": [
+        239,
+        252,
+        251
+      ],
+      "hex": "#effcfb"
+    },
+    {
+      "color": "lightBlue",
+      "pixels": 19869,
+      "percent": 15.075342569689981,
+      "median": [
+        67,
+        145,
+        239
+      ],
+      "hex": "#4391ef"
+    }
+  ],
+  "brightOnly": [
+    {
+      "color": "brightBlue",
+      "pixels": 30157,
+      "percent": 29.948855454590596,
+      "median": [
+        30,
+        81,
+        206
+      ],
+      "hex": "#1e51ce"
+    },
+    {
+      "color": "cyan",
+      "pixels": 25986,
+      "percent": 25.806643825413378,
+      "median": [
+        154,
+        226,
+        250
+      ],
+      "hex": "#9ae2fa"
+    },
+    {
+      "color": "white",
+      "pixels": 24683,
+      "percent": 24.512637171656984,
+      "median": [
+        239,
+        252,
+        251
+      ],
+      "hex": "#effcfb"
+    },
+    {
+      "color": "lightBlue",
+      "pixels": 19869,
+      "percent": 19.731863548339042,
+      "median": [
+        67,
+        145,
+        239
+      ],
+      "hex": "#4391ef"
+    }
+  ],
+  "method": "RGB thresholds; exclude RGB(60,89,119) ±18; keep 8-connected regions >=1000 px; exclude right background sparks; includes dark blue halo and blue transition on lettering. White V>=190 R/B>=.82 G/B>=.90; cyan V>=140 G/B>=.75; lightBlue V>=140 G/B>=.50; brightBlue V>=140; otherwise deepBlue."
+}

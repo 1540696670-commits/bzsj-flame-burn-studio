@@ -1,0 +1,337 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 93,
+    "sha256": "e1bb762912017bf214d67c7f512a12920ad5acb967a126101197036ed27f05e8"
+  },
+  {
+    "path": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "burn/app.js",
+    "bytes": 14399,
+    "sha256": "a3bdfab12cf12bf0466457f8cb52109da2b400f796d061a226cdbb1752e50116"
+  },
+  {
+    "path": "burn/download.js",
+    "bytes": 4071,
+    "sha256": "6da35d6362358eb9dc67fa970722dba022abf7aabfe1a497f203730f13fec339"
+  },
+  {
+    "path": "burn/fonts/Anton-OFL.txt",
+    "bytes": 4484,
+    "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+  },
+  {
+    "path": "burn/fonts/Anton.ttf",
+    "bytes": 170812,
+    "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+  },
+  {
+    "path": "burn/fonts/BebasNeue-OFL.txt",
+    "bytes": 4337,
+    "sha256": "72082f6cb4d04be2ecf7cc7d9e1e7d73787f0af8a5a278a47cade70c16b78341"
+  },
+  {
+    "path": "burn/fonts/BebasNeue.ttf",
+    "bytes": 61400,
+    "sha256": "08e4623805102d819f58601e46e345648846075e363b2ceb23313c2d1c83ec73"
+  },
+  {
+    "path": "burn/index.html",
+    "bytes": 5714,
+    "sha256": "b91bcd62d3d73fb3dfc1ecb059b75780a0a1fb968b1f2d28bd25eefdeb988920"
+  },
+  {
+    "path": "burn/style.css",
+    "bytes": 6658,
+    "sha256": "0f9e8202df5c63c1230e4dcad3923d6436939dd9f527d565d3963e4879e6d744"
+  },
+  {
+    "path": "docs/browser-check.json",
+    "bytes": 704,
+    "sha256": "53fea47be4d152e6d31a71dd25dcbdd18e81d55983dc290c6e83c53d7d83b1d7"
+  },
+  {
+    "path": "docs/burn-parameters.json",
+    "bytes": 505,
+    "sha256": "c9e8ee2cf55697ea19cedb239d27a9e25241d4c6342f00fd74127070e223d957"
+  },
+  {
+    "path": "docs/burn-preview.png",
+    "bytes": 67016,
+    "sha256": "7ec7126aa7d50e17910816753ce9597bf599e77a401685b0a7133791a75a34b3"
+  },
+  {
+    "path": "docs/burn-runtime-state.json",
+    "bytes": 206,
+    "sha256": "20fc7666b92c0a7107d4c702df8315d8843c3a41208fd96aa53f819b818ce81c"
+  },
+  {
+    "path": "docs/flame-preview.png",
+    "bytes": 98643,
+    "sha256": "4200f0baccc8503e2bfdb77cfa5d8c6eea27a0db899b67a76a180739ee928de0"
+  },
+  {
+    "path": "docs/flame-runtime-state.json",
+    "bytes": 3010,
+    "sha256": "dc94cd77504728fb7d266a44eecdfd89743751c4869b182e8b9ea71e9bbd514d"
+  },
+  {
+    "path": "docs/flame-v36/Blender参数参考.md",
+    "bytes": 11978,
+    "sha256": "e92d8953580cd56e1c983ba3104c54f6c72c485aba3530353369d8aace77dbf1"
+  },
+  {
+    "path": "docs/flame-v36/parameters.json",
+    "bytes": 1757,
+    "sha256": "6cdb47600d645c46053990ee1ef287fd4f9bca71d6be5cf67e2c16a2fdb7cead"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/color-share/percentages.json",
+    "bytes": 2477,
+    "sha256": "1e48340c020104c05a7524caece83e9aa5c993d53f6094bb38248d3d8c45a87b"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/core-spatial-data.json",
+    "bytes": 6457,
+    "sha256": "dcdbf4d7b0b71327593b6321a17c0dead1c67eaf117da9050fbaadf2b50480c0"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/data.json",
+    "bytes": 4814,
+    "sha256": "6dcf5393f33f335f059fc89a02ae974a776afc6963d977bb85fcea103155ceb1"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/single-glyph-profile.json",
+    "bytes": 1992,
+    "sha256": "7c0e778e0387e52fc9d005c0fc8a6c3d8d3fc66ec08a3a9f1948ca88aaafff32"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/spacing-data.json",
+    "bytes": 1576,
+    "sha256": "ad89a6d1f19be1c39e15c0e14b1d677605777406c1425be233477e1bdfb7a86e"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/supplement.json",
+    "bytes": 465,
+    "sha256": "078e48c2d3bef3deed79a953418a4adccdcd4ecf6cc47cd2660b9a839adf4199"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/three-frame-data.json",
+    "bytes": 21660,
+    "sha256": "2964c17c0740ebefdf074bc632fb3320047fb899fef53bd7a6274ce3f5a53175"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/three-smoke-data.json",
+    "bytes": 791,
+    "sha256": "48c936463594aa2040237320d88fc61986f4a2e3a2b076105a93c90b86ee931f"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/单字火焰公式与实现.md",
+    "bytes": 9707,
+    "sha256": "2ffcdc37ea29a3308546449d350fb342f61d5379eeb4dd7abb5e23fec236c39a"
+  },
+  {
+    "path": "docs/flame-v36/reference-data/参考参数补充.md",
+    "bytes": 3033,
+    "sha256": "1917c255567b91697a2f03045ae08a3cac0e26a0a1a7d799d24a049a4a68afb0"
+  },
+  {
+    "path": "docs/flame-v36/validation/core-calibration-accepted-strict.json",
+    "bytes": 851,
+    "sha256": "dfb05fdc33b89b989ddb6ba28d36af4a1e0322efa9355a94ba7058de94aee25e"
+  },
+  {
+    "path": "docs/flame-v36/validation/core-calibration-accepted.json",
+    "bytes": 850,
+    "sha256": "47389d17e9ab1ae3f74d789f19fa7db27abddbd933a76d9cd8f13552e1b67b8a"
+  },
+  {
+    "path": "docs/flame-v36/validation/core-calibration-final.json",
+    "bytes": 2546,
+    "sha256": "daef66a6dfef33d3d955692cfadc541d7cbd16a7f4e6b6f8fc2be14c3cc3c093"
+  },
+  {
+    "path": "docs/flame-v36/validation/core-calibration-high.json",
+    "bytes": 5080,
+    "sha256": "1552740ef7b18521d581db163f6cfa55ab11b50e0793e7557dd1bdb7cf28ac4b"
+  },
+  {
+    "path": "docs/flame-v36/validation/core-calibration-strict.json",
+    "bytes": 4230,
+    "sha256": "062abce57b2d609ab6851d3a60b894de7971ab8117d9fdd4a2916f55d172e6e3"
+  },
+  {
+    "path": "docs/flame-v36/validation/core-calibration-v31-refined.json",
+    "bytes": 2546,
+    "sha256": "c8f7b31822c32949e2b1f0b9ad30c7e5059e07032800193e55e15149d3406830"
+  },
+  {
+    "path": "docs/flame-v36/validation/core-calibration-v31.json",
+    "bytes": 4241,
+    "sha256": "1660d2539339408c0b50bafb2a081d063cf4ea7086094e1a4d1f97f055d873e3"
+  },
+  {
+    "path": "docs/flame-v36/validation/core-calibration-v32.json",
+    "bytes": 853,
+    "sha256": "c42a82ac9424f846fc4e09511539c40d61859a003da78136109e26c26baa16cb"
+  },
+  {
+    "path": "docs/flame-v36/validation/core-calibration.json",
+    "bytes": 6712,
+    "sha256": "3d3a76a6eaa8a8c60c3028be26e0e54a7c4710a404ff9512927848f438bf4c2b"
+  },
+  {
+    "path": "docs/flame-v36/validation/flame-extraction.json",
+    "bytes": 6304,
+    "sha256": "91fac00392768ea1a7c636405b950c1b443d8560ed042a97037ec9eb3c01796e"
+  },
+  {
+    "path": "docs/flame-v36/validation/package-verification.json",
+    "bytes": 206,
+    "sha256": "5c96e5dfef830a67416ff62f611f1467fc0739121dfd31227ac098b1adc8ec32"
+  },
+  {
+    "path": "docs/flame-v36/validation/v31-implementation.md",
+    "bytes": 1255,
+    "sha256": "8203cfad485e9a0a27279f31f785c3be3aa07d801f3d52ef97ef70be345efb27"
+  },
+  {
+    "path": "docs/flame-v36/validation/v32-implementation.md",
+    "bytes": 955,
+    "sha256": "6c354a3373ac77c7417fe7f0088b92129fcfe23932ec7205c493f619dd2f6529"
+  },
+  {
+    "path": "effect-switch.css",
+    "bytes": 5194,
+    "sha256": "ad250d02812e8065c6e3f435e5cd9005f0586fcdc9db073154b1083d0b3dcc7c"
+  },
+  {
+    "path": "effect-switch.js",
+    "bytes": 4332,
+    "sha256": "80b2f4180e78fe8cb33b256ba982555e8ea31344a749c575008a81336a2449a7"
+  },
+  {
+    "path": "flame/app-v2.js",
+    "bytes": 37450,
+    "sha256": "9f32dd31fb05da427d8c4338834862f103252152f57573026f44a5e7b7dd90a0"
+  },
+  {
+    "path": "flame/download.js",
+    "bytes": 3207,
+    "sha256": "80d674f5d8f94b305a6cc627b8853e8a6cfc7234b9ca0ebb21b7e38843a7e045"
+  },
+  {
+    "path": "flame/fonts/OFL.txt",
+    "bytes": 4390,
+    "sha256": "69f01b79c1be37a734736a94a12c55cb28d09ee93e4febc9db109cec608f9ae7"
+  },
+  {
+    "path": "flame/fonts/Rye-OFL.txt",
+    "bytes": 4393,
+    "sha256": "399b33eb38cdfc76b8665defa5f81d52e8193d630ad5858c893db6bc20031bc9"
+  },
+  {
+    "path": "flame/fonts/Rye-Regular.ttf",
+    "bytes": 183244,
+    "sha256": "b7edee5e615ae1b6b07e9d030c1309152bf3672a0e8a2a46293e273730f5adba"
+  },
+  {
+    "path": "flame/fonts/Sancreek-Regular.ttf",
+    "bytes": 93252,
+    "sha256": "8f87c42f6e6ba97125cd975c3d7d48902fc227d805948e678d5293a300e3fe55"
+  },
+  {
+    "path": "flame/fonts/Smokum-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "path": "flame/fonts/Smokum-Regular.ttf",
+    "bytes": 63080,
+    "sha256": "dfb06e95e7b99724e2e508979bdd679c2a1a9c8413c7f6961656097fd38c9a63"
+  },
+  {
+    "path": "flame/index.html",
+    "bytes": 4085,
+    "sha256": "cff77c704ef25e612cc1a02b87ef30d68fdf5d650e58e33fc4147f3784779794"
+  },
+  {
+    "path": "flame/reference-glyphs.js",
+    "bytes": 1273,
+    "sha256": "b51f35fc3d4d6282bc19edf85b7415f32dc4de6faccdecf11a1ddd4284817cf4"
+  },
+  {
+    "path": "flame/style.css",
+    "bytes": 4927,
+    "sha256": "5eb78fdc3021f86c64ee09838e24f56531d936c7ab7164d424ac149ce5179d7e"
+  },
+  {
+    "path": "flame/ui.js",
+    "bytes": 694,
+    "sha256": "0b502cded3c7584bdc98ef259f37c61f8c60c854875bd3bd5dbe4137a9d1f65a"
+  },
+  {
+    "path": "index.html",
+    "bytes": 2241,
+    "sha256": "2c41fd48f90b12bb70f8ba94a6ce5614100d520d66247f19dc9619908618084b"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1061,
+    "sha256": "7bbb6de14849522854e6ba740f8326133ce41b84be913882056ff13d788d386f"
+  },
+  {
+    "path": "logos/burn.svg",
+    "bytes": 236,
+    "sha256": "3db214e46395787a505d1888a9b4da1568fda516be8328916ff07c8c41be01c8"
+  },
+  {
+    "path": "logos/flame.svg",
+    "bytes": 474,
+    "sha256": "1ad7a5adff5fd533cd03218c6cba3d82d95ee1133719f60818251283e2787af7"
+  },
+  {
+    "path": "mp4-muxer-LICENSE.txt",
+    "bytes": 1065,
+    "sha256": "75c54aae7ef6ad652f684f9dd3b71e4dcef86ccebd88cf441ceed7f5eec037c5"
+  },
+  {
+    "path": "mp4-muxer.js",
+    "bytes": 73921,
+    "sha256": "cc4d30bd20b9ffe0b15f59cf0de3e1930626ccd46a5146e36e4d619d7fecf63d"
+  },
+  {
+    "path": "package.json",
+    "bytes": 222,
+    "sha256": "b264eb843e2c27dfc2f2816b11627efc3853354e3392b9fe26647ccf4c834d55"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4084,
+    "sha256": "e5a6c55ffe3fea03473535be3c89c63ec07143e9cbaac59b62eb37fba5b1b4d9"
+  },
+  {
+    "path": "scripts/serve.mjs",
+    "bytes": 1276,
+    "sha256": "47b6a538129fa41dd51929250157c23c5192aba207916b272b7327246e6c9ac0"
+  },
+  {
+    "path": "studio-ui.css",
+    "bytes": 7512,
+    "sha256": "483aa4addadd367f8a7d3499083c2c0c0e44fa1d3630da89ecb5e5558684387f"
+  },
+  {
+    "path": "studio-ui.js",
+    "bytes": 6081,
+    "sha256": "ce8feacc349e3d9b401d8343060bd83d66e25be4b0a1dd322684ca43f3d3d2e7"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 913,
+    "sha256": "8017785271e1e5a776e7033bab6ce3de6bb9f573498fa48eafe1118619cd27ec"
+  }
+]

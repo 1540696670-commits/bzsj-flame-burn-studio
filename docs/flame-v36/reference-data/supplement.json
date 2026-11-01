@@ -1,0 +1,25 @@
+{
+  "firstOVisibleInkX": [
+    405,
+    562
+  ],
+  "HtoOVisibleInkGap": 14,
+  "smokeROI": [
+    30,
+    45,
+    235,
+    290
+  ],
+  "smokePixels": 21444,
+  "smokeMeanRGBLevel": 17.49835229745735,
+  "smokePeakRGBLevel": 29,
+  "smokeWeightedCentroid": [
+    159.1409793338177,
+    173.57067133100273
+  ],
+  "colorSaturationExamples": {
+    "white": 0.027777777777777776,
+    "cyan": 0.3493975903614458,
+    "deepBlue": 0.9743589743589743
+  }
+}

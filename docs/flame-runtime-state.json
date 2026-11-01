@@ -1,0 +1,145 @@
+{
+  "t": 3.6999999999999966,
+  "playing": false,
+  "width": 1620,
+  "height": 911,
+  "fontReady": true,
+  "duration": 7,
+  "letterGapHeightRatio": 0.04,
+  "palette": {
+    "core": "#F5FBFC",
+    "transition": "#A2EEF9",
+    "blue": "#3759DF",
+    "edge": "#0A3ED4",
+    "ink": "#3C5977"
+  },
+  "gradientMode": "surface-heat-to-local-fire",
+  "attachmentModel": "glyph-interior-distance",
+  "surfaceHeatBandHeightRatio": 0.093333,
+  "upperFlameMotion": "irregular-lateral-bursts",
+  "fireInjection": "continuous-with-sparse-local-tongues",
+  "interGlyphFire": "all-adjacent-variable-size-tongues",
+  "requiredConnectionCount": 3,
+  "connectionPairs": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ]
+  ],
+  "edgeGlow": "soft-two-radius",
+  "opacity": "variable-thickness",
+  "fireColorContrast": 2,
+  "fireToneContrast": 2,
+  "whiteCoreTargetPercent": 24.5,
+  "whiteCoreCalibrationGain": 24.45,
+  "whiteCoreLayout": "advected-local-clusters",
+  "fireOrbit": "clockwise-xz",
+  "fireOrbitPitchDegrees": 15,
+  "camera": "fixed",
+  "glyphRearOcclusion": true,
+  "backgroundColor": "#000000",
+  "frontViewFireBalance": {
+    "left": 1,
+    "right": 0.39,
+    "reductionPercent": 61,
+    "additionalReductionPercent": 35
+  },
+  "coreSpatialReference": {
+    "A": [
+      0.904,
+      0.311
+    ],
+    "B": [
+      0.533,
+      0.637,
+      0.753
+    ],
+    "C": [
+      0.649,
+      0.801,
+      0.475
+    ]
+  },
+  "font": "Rye",
+  "burnTime": 2,
+  "fragmentLeadSeconds": 0.3,
+  "burnFrontAngleDegrees": 12,
+  "fireEngine": "3d-voxel-advection",
+  "volumeDepthSamples": 32,
+  "simulationFrame": 222,
+  "heatResolution": [
+    512,
+    288,
+    16
+  ],
+  "previewProfile": "desktop",
+  "simulationRate": 60,
+  "raySamples": 32,
+  "usesFlameFlipbook": false,
+  "sparkSourceCount": 531,
+  "sparkFlight": "diagonal-ahead-of-burning-front",
+  "smokeTimings": [
+    {
+      "onset": 1.5999999999999999,
+      "end": 2.8000000000000003
+    },
+    {
+      "onset": 2.2,
+      "end": 3.8000000000000003
+    },
+    {
+      "onset": 3.2,
+      "end": 4.8
+    },
+    {
+      "onset": 4.2,
+      "end": 5.75
+    }
+  ],
+  "glyphs": [
+    {
+      "index": 0,
+      "x0": 0.17655357360839843,
+      "x1": 0.3618563079833984,
+      "y0": 0.263671875,
+      "y1": 0.6217447916666667,
+      "start": 0.2,
+      "burnProgress": 1
+    },
+    {
+      "index": 1,
+      "x0": 0.37430885314941403,
+      "x1": 0.5193283843994141,
+      "y0": 0.25651041666666663,
+      "y1": 0.5358072916666667,
+      "start": 0.8,
+      "burnProgress": 1
+    },
+    {
+      "index": 2,
+      "x0": 0.5405928802490234,
+      "x1": 0.6614424896240234,
+      "y0": 0.25651041666666663,
+      "y1": 0.5501302083333333,
+      "start": 1.8,
+      "burnProgress": 0.9499999999999982
+    },
+    {
+      "index": 3,
+      "x0": 0.6722585296630859,
+      "x1": 0.8253347015380859,
+      "y0": 0.263671875,
+      "y1": 0.6217447916666667,
+      "start": 2.8000000000000003,
+      "burnProgress": 0.4499999999999982
+    }
+  ]
+}

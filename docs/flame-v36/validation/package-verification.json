@@ -1,0 +1,12 @@
+{
+  "errors": [],
+  "state": {
+    "balance": {
+      "left": 1,
+      "right": 0.39,
+      "reductionPercent": 61,
+      "additionalReductionPercent": 35
+    },
+    "background": "#000000"
+  }
+}

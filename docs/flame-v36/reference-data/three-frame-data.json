@@ -1,0 +1,974 @@
+{
+  "definitions": "Same RGB thresholds. H measured using local ink color tolerance ±8. Flame top uses blue/cyan/white connected components area >=0.001H² within selected fire ROI; includes glow, excludes tiny isolated tips. Each color ROI differs, so percentages are descriptive, not controlled whole-frame comparisons.",
+  "results": [
+    {
+      "id": "A",
+      "width": 1068,
+      "height": 831,
+      "inkRGB": [
+        60,
+        89,
+        119
+      ],
+      "inkHEX": "#3c5977",
+      "inkModeCount": 5185,
+      "glyphROI": [
+        190,
+        270,
+        414,
+        780
+      ],
+      "HBounds": {
+        "x0": 207,
+        "x1": 413,
+        "y0": 293,
+        "y1": 752
+      },
+      "H": 460,
+      "fireROI": [
+        360,
+        150,
+        780,
+        790
+      ],
+      "main": [
+        {
+          "area": 74687,
+          "xmin": 382,
+          "xmax": 759,
+          "ymin": 200,
+          "ymax": 756
+        },
+        {
+          "area": 769,
+          "xmin": 373,
+          "xmax": 391,
+          "ymin": 303,
+          "ymax": 372
+        },
+        {
+          "area": 69,
+          "xmin": 665,
+          "xmax": 673,
+          "ymin": 517,
+          "ymax": 530
+        }
+      ],
+      "substantialComponentAreaThreshold": 212,
+      "flameTop": 200,
+      "aboveTop": 0.20217391304347826,
+      "colors": {
+        "white": {
+          "pixels": 20807,
+          "percent": 23.74902981326759,
+          "median": [
+            245,
+            251,
+            252
+          ],
+          "hex": "#f5fbfc"
+        },
+        "cyan": {
+          "pixels": 25692,
+          "percent": 29.324750034241884,
+          "median": [
+            162,
+            238,
+            249
+          ],
+          "hex": "#a2eef9"
+        },
+        "blue": {
+          "pixels": 41113,
+          "percent": 46.92622015249053,
+          "median": [
+            55,
+            89,
+            223
+          ],
+          "hex": "#3759df"
+        }
+      },
+      "activeBandX": [
+        395,
+        578
+      ],
+      "bands": [
+        {
+          "height": [
+            0,
+            0.25
+          ],
+          "colors": {
+            "white": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "cyan": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "blue": {
+              "pixels": 160,
+              "percent": 100,
+              "median": [
+                2,
+                27,
+                192
+              ],
+              "hex": "#021bc0"
+            }
+          }
+        },
+        {
+          "height": [
+            0.25,
+            0.5
+          ],
+          "colors": {
+            "white": {
+              "pixels": 68,
+              "percent": 2.4826579043446513,
+              "median": [
+                223,
+                253,
+                245
+              ],
+              "hex": "#dffdf5"
+            },
+            "cyan": {
+              "pixels": 344,
+              "percent": 12.559328221978824,
+              "median": [
+                169,
+                235,
+                245
+              ],
+              "hex": "#a9ebf5"
+            },
+            "blue": {
+              "pixels": 2327,
+              "percent": 84.95801387367652,
+              "median": [
+                58,
+                88,
+                196
+              ],
+              "hex": "#3a58c4"
+            }
+          }
+        },
+        {
+          "height": [
+            0.5,
+            0.75
+          ],
+          "colors": {
+            "white": {
+              "pixels": 1805,
+              "percent": 11.688900401502396,
+              "median": [
+                239,
+                251,
+                251
+              ],
+              "hex": "#effbfb"
+            },
+            "cyan": {
+              "pixels": 4681,
+              "percent": 30.313430902732808,
+              "median": [
+                163,
+                243,
+                250
+              ],
+              "hex": "#a3f3fa"
+            },
+            "blue": {
+              "pixels": 8956,
+              "percent": 57.997668695764794,
+              "median": [
+                60,
+                90,
+                227
+              ],
+              "hex": "#3c5ae3"
+            }
+          }
+        },
+        {
+          "height": [
+            0.75,
+            1
+          ],
+          "colors": {
+            "white": {
+              "pixels": 7889,
+              "percent": 37.80067081935793,
+              "median": [
+                245,
+                252,
+                252
+              ],
+              "hex": "#f5fcfc"
+            },
+            "cyan": {
+              "pixels": 9012,
+              "percent": 43.181600383325346,
+              "median": [
+                163,
+                240,
+                250
+              ],
+              "hex": "#a3f0fa"
+            },
+            "blue": {
+              "pixels": 3969,
+              "percent": 19.01772879731672,
+              "median": [
+                55,
+                112,
+                237
+              ],
+              "hex": "#3770ed"
+            }
+          }
+        },
+        {
+          "height": [
+            1,
+            1.25
+          ],
+          "colors": {
+            "white": {
+              "pixels": 3275,
+              "percent": 30.374698571693564,
+              "median": [
+                242,
+                251,
+                251
+              ],
+              "hex": "#f2fbfb"
+            },
+            "cyan": {
+              "pixels": 2747,
+              "percent": 25.477647931738083,
+              "median": [
+                182,
+                239,
+                247
+              ],
+              "hex": "#b6eff7"
+            },
+            "blue": {
+              "pixels": 4760,
+              "percent": 44.14765349656835,
+              "median": [
+                10,
+                62,
+                212
+              ],
+              "hex": "#0a3ed4"
+            }
+          }
+        },
+        {
+          "height": [
+            1.25,
+            1.5
+          ],
+          "colors": {
+            "white": {
+              "pixels": 0,
+              "percent": null,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "cyan": {
+              "pixels": 0,
+              "percent": null,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "blue": {
+              "pixels": 0,
+              "percent": null,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "width": 1197,
+      "height": 894,
+      "inkRGB": [
+        60,
+        89,
+        119
+      ],
+      "inkHEX": "#3c5977",
+      "inkModeCount": 1839,
+      "glyphROI": [
+        160,
+        310,
+        385,
+        820
+      ],
+      "HBounds": {
+        "x0": 180,
+        "x1": 384,
+        "y0": 332,
+        "y1": 793
+      },
+      "H": 462,
+      "fireROI": [
+        380,
+        70,
+        940,
+        835
+      ],
+      "main": [
+        {
+          "area": 78075,
+          "xmin": 411,
+          "xmax": 764,
+          "ymin": 104,
+          "ymax": 731
+        },
+        {
+          "area": 7538,
+          "xmin": 743,
+          "xmax": 886,
+          "ymin": 702,
+          "ymax": 803
+        },
+        {
+          "area": 416,
+          "xmin": 569,
+          "xmax": 600,
+          "ymin": 265,
+          "ymax": 299
+        }
+      ],
+      "substantialComponentAreaThreshold": 213,
+      "flameTop": 104,
+      "aboveTop": 0.4935064935064935,
+      "colors": {
+        "white": {
+          "pixels": 11117,
+          "percent": 11.056300908014999,
+          "median": [
+            241,
+            252,
+            251
+          ],
+          "hex": "#f1fcfb"
+        },
+        "cyan": {
+          "pixels": 31228,
+          "percent": 31.05749435598564,
+          "median": [
+            152,
+            227,
+            249
+          ],
+          "hex": "#98e3f9"
+        },
+        "blue": {
+          "pixels": 58204,
+          "percent": 57.886204735999364,
+          "median": [
+            55,
+            91,
+            220
+          ],
+          "hex": "#375bdc"
+        }
+      },
+      "activeBandX": [
+        565,
+        755
+      ],
+      "bands": [
+        {
+          "height": [
+            0,
+            0.25
+          ],
+          "colors": {
+            "white": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "cyan": {
+              "pixels": 352,
+              "percent": 7.322654462242563,
+              "median": [
+                136,
+                219,
+                251
+              ],
+              "hex": "#88dbfb"
+            },
+            "blue": {
+              "pixels": 4455,
+              "percent": 92.67734553775743,
+              "median": [
+                58,
+                89,
+                220
+              ],
+              "hex": "#3a59dc"
+            }
+          }
+        },
+        {
+          "height": [
+            0.25,
+            0.5
+          ],
+          "colors": {
+            "white": {
+              "pixels": 1693,
+              "percent": 7.934201893335833,
+              "median": [
+                235,
+                250,
+                250
+              ],
+              "hex": "#ebfafa"
+            },
+            "cyan": {
+              "pixels": 7786,
+              "percent": 36.488893054644294,
+              "median": [
+                126,
+                219,
+                250
+              ],
+              "hex": "#7edbfa"
+            },
+            "blue": {
+              "pixels": 11859,
+              "percent": 55.57690505201987,
+              "median": [
+                60,
+                128,
+                244
+              ],
+              "hex": "#3c80f4"
+            }
+          }
+        },
+        {
+          "height": [
+            0.5,
+            0.75
+          ],
+          "colors": {
+            "white": {
+              "pixels": 6760,
+              "percent": 32.07439741886506,
+              "median": [
+                245,
+                252,
+                252
+              ],
+              "hex": "#f5fcfc"
+            },
+            "cyan": {
+              "pixels": 8040,
+              "percent": 38.14765610172708,
+              "median": [
+                174,
+                233,
+                249
+              ],
+              "hex": "#aee9f9"
+            },
+            "blue": {
+              "pixels": 6276,
+              "percent": 29.777946479407856,
+              "median": [
+                40,
+                97,
+                225
+              ],
+              "hex": "#2861e1"
+            }
+          }
+        },
+        {
+          "height": [
+            0.75,
+            1
+          ],
+          "colors": {
+            "white": {
+              "pixels": 567,
+              "percent": 8.209063269147242,
+              "median": [
+                230,
+                250,
+                251
+              ],
+              "hex": "#e6fafb"
+            },
+            "cyan": {
+              "pixels": 1261,
+              "percent": 18.256840886057624,
+              "median": [
+                169,
+                222,
+                246
+              ],
+              "hex": "#a9def6"
+            },
+            "blue": {
+              "pixels": 5079,
+              "percent": 73.53409584479513,
+              "median": [
+                47,
+                88,
+                201
+              ],
+              "hex": "#2f58c9"
+            }
+          }
+        },
+        {
+          "height": [
+            1,
+            1.25
+          ],
+          "colors": {
+            "white": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "cyan": {
+              "pixels": 391,
+              "percent": 13.757916959887403,
+              "median": [
+                126,
+                210,
+                253
+              ],
+              "hex": "#7ed2fd"
+            },
+            "blue": {
+              "pixels": 2451,
+              "percent": 86.24208304011259,
+              "median": [
+                17,
+                60,
+                190
+              ],
+              "hex": "#113cbe"
+            }
+          }
+        },
+        {
+          "height": [
+            1.25,
+            1.5
+          ],
+          "colors": {
+            "white": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "cyan": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "blue": {
+              "pixels": 29,
+              "percent": 100,
+              "median": [
+                4,
+                21,
+                158
+              ],
+              "hex": "#04159e"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "width": 1121,
+      "height": 825,
+      "inkRGB": [
+        60,
+        89,
+        119
+      ],
+      "inkHEX": "#3c5977",
+      "inkModeCount": 3082,
+      "glyphROI": [
+        100,
+        270,
+        325,
+        780
+      ],
+      "HBounds": {
+        "x0": 116,
+        "x1": 324,
+        "y0": 289,
+        "y1": 756
+      },
+      "H": 468,
+      "fireROI": [
+        515,
+        120,
+        1010,
+        800
+      ],
+      "main": [
+        {
+          "area": 74654,
+          "xmin": 571,
+          "xmax": 914,
+          "ymin": 153,
+          "ymax": 682
+        },
+        {
+          "area": 2430,
+          "xmin": 881,
+          "xmax": 985,
+          "ymin": 706,
+          "ymax": 768
+        },
+        {
+          "area": 37,
+          "xmin": 907,
+          "xmax": 912,
+          "ymin": 662,
+          "ymax": 671
+        }
+      ],
+      "substantialComponentAreaThreshold": 219,
+      "flameTop": 153,
+      "aboveTop": 0.2905982905982906,
+      "colors": {
+        "white": {
+          "pixels": 11461,
+          "percent": 12.68048194903909,
+          "median": [
+            240,
+            251,
+            251
+          ],
+          "hex": "#f0fbfb"
+        },
+        "cyan": {
+          "pixels": 29882,
+          "percent": 33.06152705707932,
+          "median": [
+            169,
+            235,
+            250
+          ],
+          "hex": "#a9ebfa"
+        },
+        "blue": {
+          "pixels": 49040,
+          "percent": 54.25799099388159,
+          "median": [
+            55,
+            91,
+            219
+          ],
+          "hex": "#375bdb"
+        }
+      },
+      "activeBandX": [
+        675,
+        890
+      ],
+      "bands": [
+        {
+          "height": [
+            0,
+            0.25
+          ],
+          "colors": {
+            "white": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "cyan": {
+              "pixels": 165,
+              "percent": 4.9490101979604075,
+              "median": [
+                113,
+                192,
+                251
+              ],
+              "hex": "#71c0fb"
+            },
+            "blue": {
+              "pixels": 3169,
+              "percent": 95.0509898020396,
+              "median": [
+                55,
+                89,
+                199
+              ],
+              "hex": "#3759c7"
+            }
+          }
+        },
+        {
+          "height": [
+            0.25,
+            0.5
+          ],
+          "colors": {
+            "white": {
+              "pixels": 872,
+              "percent": 3.7503763278998754,
+              "median": [
+                234,
+                252,
+                252
+              ],
+              "hex": "#eafcfc"
+            },
+            "cyan": {
+              "pixels": 8256,
+              "percent": 35.50815018708873,
+              "median": [
+                137,
+                226,
+                251
+              ],
+              "hex": "#89e2fb"
+            },
+            "blue": {
+              "pixels": 14123,
+              "percent": 60.7414734850114,
+              "median": [
+                58,
+                108,
+                237
+              ],
+              "hex": "#3a6ced"
+            }
+          }
+        },
+        {
+          "height": [
+            0.5,
+            0.75
+          ],
+          "colors": {
+            "white": {
+              "pixels": 8125,
+              "percent": 32.904061879884985,
+              "median": [
+                243,
+                252,
+                252
+              ],
+              "hex": "#f3fcfc"
+            },
+            "cyan": {
+              "pixels": 11460,
+              "percent": 46.40991374073624,
+              "median": [
+                180,
+                241,
+                249
+              ],
+              "hex": "#b4f1f9"
+            },
+            "blue": {
+              "pixels": 5108,
+              "percent": 20.68602437937877,
+              "median": [
+                60,
+                124,
+                230
+              ],
+              "hex": "#3c7ce6"
+            }
+          }
+        },
+        {
+          "height": [
+            0.75,
+            1
+          ],
+          "colors": {
+            "white": {
+              "pixels": 2420,
+              "percent": 11.900078678206137,
+              "median": [
+                232,
+                251,
+                249
+              ],
+              "hex": "#e8fbf9"
+            },
+            "cyan": {
+              "pixels": 7340,
+              "percent": 36.09362706530291,
+              "median": [
+                186,
+                236,
+                250
+              ],
+              "hex": "#baecfa"
+            },
+            "blue": {
+              "pixels": 10576,
+              "percent": 52.00629425649095,
+              "median": [
+                55,
+                93,
+                215
+              ],
+              "hex": "#375dd7"
+            }
+          }
+        },
+        {
+          "height": [
+            1,
+            1.25
+          ],
+          "colors": {
+            "white": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "cyan": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "blue": {
+              "pixels": 53,
+              "percent": 100,
+              "median": [
+                79,
+                84,
+                164
+              ],
+              "hex": "#4f54a4"
+            }
+          }
+        },
+        {
+          "height": [
+            1.25,
+            1.5
+          ],
+          "colors": {
+            "white": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "cyan": {
+              "pixels": 0,
+              "percent": 0,
+              "median": [
+                0,
+                0,
+                0
+              ],
+              "hex": "#000000"
+            },
+            "blue": {
+              "pixels": 4,
+              "percent": 100,
+              "median": [
+                91,
+                99,
+                158
+              ],
+              "hex": "#5b639e"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "kind": "flame",
+    "errors": [],
+    "imported": true,
+    "exportConfig": {
+      "width": 1920,
+      "height": 1080,
+      "bitrate": 24000000,
+      "fps": 30,
+      "duration": 7
+    },
+    "status": [
+      "高清 MP4 已下载"
+    ]
+  },
+  {
+    "kind": "burn",
+    "errors": [],
+    "imported": true,
+    "exportConfig": {
+      "width": 1920,
+      "height": 1200,
+      "bitrate": 24000000,
+      "fps": 30,
+      "duration": 5
+    },
+    "status": [
+      "高清 MP4 已下载"
+    ]
+  },
+  {
+    "kind": "flame",
+    "profile": "mobile",
+    "errors": [],
+    "overflow": false
+  },
+  {
+    "kind": "burn",
+    "profile": "mobile",
+    "errors": [],
+    "overflow": false
+  }
+]

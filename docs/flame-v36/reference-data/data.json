@@ -1,0 +1,282 @@
+{
+  "width": 1068,
+  "height": 831,
+  "inkMode": [
+    "60,89,119",
+    5185
+  ],
+  "inkRGB": [
+    60,
+    89,
+    119
+  ],
+  "glyphHBounds": {
+    "xmin": 207,
+    "xmax": 390,
+    "ymin": 293,
+    "ymax": 752,
+    "height": 460
+  },
+  "flameROI": [
+    360,
+    150,
+    780,
+    790
+  ],
+  "flameColors": {
+    "white": {
+      "pixels": 20807,
+      "median": [
+        245,
+        251,
+        252
+      ],
+      "hex": "#f5fbfc"
+    },
+    "cyan": {
+      "pixels": 25692,
+      "median": [
+        162,
+        238,
+        249
+      ],
+      "hex": "#a2eef9"
+    },
+    "blue": {
+      "pixels": 41113,
+      "median": [
+        55,
+        89,
+        223
+      ],
+      "hex": "#3759df"
+    }
+  },
+  "mainBrightComponents": [
+    {
+      "area": 74687,
+      "x0": 382,
+      "x1": 759,
+      "y0": 200,
+      "y1": 756
+    },
+    {
+      "area": 769,
+      "x0": 373,
+      "x1": 391,
+      "y0": 303,
+      "y1": 372
+    },
+    {
+      "area": 69,
+      "x0": 665,
+      "x1": 673,
+      "y0": 517,
+      "y1": 530
+    }
+  ],
+  "firstActiveGlyphBands": [
+    {
+      "height": [
+        0,
+        0.25
+      ],
+      "y": [
+        637,
+        752
+      ],
+      "colors": {
+        "white": {
+          "pixels": 0,
+          "median": [
+            0,
+            0,
+            0
+          ],
+          "hex": "#000000"
+        },
+        "cyan": {
+          "pixels": 0,
+          "median": [
+            0,
+            0,
+            0
+          ],
+          "hex": "#000000"
+        },
+        "blue": {
+          "pixels": 160,
+          "median": [
+            2,
+            27,
+            192
+          ],
+          "hex": "#021bc0"
+        }
+      }
+    },
+    {
+      "height": [
+        0.25,
+        0.5
+      ],
+      "y": [
+        523,
+        637
+      ],
+      "colors": {
+        "white": {
+          "pixels": 65,
+          "median": [
+            223,
+            254,
+            245
+          ],
+          "hex": "#dffef5"
+        },
+        "cyan": {
+          "pixels": 332,
+          "median": [
+            167,
+            234,
+            245
+          ],
+          "hex": "#a7eaf5"
+        },
+        "blue": {
+          "pixels": 2274,
+          "median": [
+            58,
+            88,
+            196
+          ],
+          "hex": "#3a58c4"
+        }
+      }
+    },
+    {
+      "height": [
+        0.5,
+        0.75
+      ],
+      "y": [
+        408,
+        523
+      ],
+      "colors": {
+        "white": {
+          "pixels": 1786,
+          "median": [
+            239,
+            251,
+            251
+          ],
+          "hex": "#effbfb"
+        },
+        "cyan": {
+          "pixels": 4607,
+          "median": [
+            163,
+            243,
+            250
+          ],
+          "hex": "#a3f3fa"
+        },
+        "blue": {
+          "pixels": 8934,
+          "median": [
+            60,
+            90,
+            227
+          ],
+          "hex": "#3c5ae3"
+        }
+      }
+    },
+    {
+      "height": [
+        0.75,
+        1
+      ],
+      "y": [
+        293,
+        408
+      ],
+      "colors": {
+        "white": {
+          "pixels": 7794,
+          "median": [
+            245,
+            252,
+            252
+          ],
+          "hex": "#f5fcfc"
+        },
+        "cyan": {
+          "pixels": 9077,
+          "median": [
+            163,
+            240,
+            250
+          ],
+          "hex": "#a3f0fa"
+        },
+        "blue": {
+          "pixels": 4007,
+          "median": [
+            56,
+            112,
+            237
+          ],
+          "hex": "#3870ed"
+        }
+      }
+    },
+    {
+      "height": [
+        1,
+        1.25
+      ],
+      "y": [
+        178,
+        293
+      ],
+      "colors": {
+        "white": {
+          "pixels": 3392,
+          "median": [
+            242,
+            251,
+            251
+          ],
+          "hex": "#f2fbfb"
+        },
+        "cyan": {
+          "pixels": 2768,
+          "median": [
+            182,
+            239,
+            247
+          ],
+          "hex": "#b6eff7"
+        },
+        "blue": {
+          "pixels": 4797,
+          "median": [
+            10,
+            62,
+            212
+          ],
+          "hex": "#0a3ed4"
+        }
+      }
+    }
+  ],
+  "backgroundBrightComponents": 46,
+  "starComponentAreaRange": [
+    2,
+    80
+  ],
+  "starSampleROI": "x600..1019 y100..469 and x780..1019 y470..719",
+  "limits": "Threshold classifications include glow. Particles count is connected bright spots in sampled ROI, not whole-frame particle count."
+}

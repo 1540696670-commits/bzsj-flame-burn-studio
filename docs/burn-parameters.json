@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "defaults": {
+    "main": "BzsJ",
+    "sub": "BURN STUDIO",
+    "font": "Serif",
+    "size": 1,
+    "ink": "#f6d745",
+    "ember": "#ff8040",
+    "background": "#101010",
+    "durationSeconds": 5
+  },
+  "renderer": {
+    "api": "WebGL",
+    "distanceFieldResolution": [
+      1024,
+      768
+    ],
+    "alpha": true,
+    "premultipliedAlpha": false
+  },
+  "api": "window.burnStudio: state, render, rebuild, play, pause",
+  "sourceOfTruth": "burn/app.js"
+}

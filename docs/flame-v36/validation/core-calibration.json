@@ -1,0 +1,386 @@
+[
+  {
+    "gain": 0.5,
+    "white": 32,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 30,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 0,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 0,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 0,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 2,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 0,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 0,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 0,
+        "total": 35737
+      }
+    ],
+    "percent": 0.005103049710082988
+  },
+  {
+    "gain": 1,
+    "white": 35405,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 7684,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 6525,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 5546,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 2386,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 4797,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 6541,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 1065,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 861,
+        "total": 35737
+      }
+    ],
+    "percent": 5.646046093296507
+  },
+  {
+    "gain": 2,
+    "white": 62370,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 11230,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 11824,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 8540,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 3663,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 9700,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 9996,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 5851,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 1566,
+        "total": 35737
+      }
+    ],
+    "percent": 9.946162825558625
+  },
+  {
+    "gain": 3,
+    "white": 73396,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 12704,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 13874,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 10079,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 4223,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 11615,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 11890,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 6931,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 2080,
+        "total": 35737
+      }
+    ],
+    "percent": 11.704482391289094
+  },
+  {
+    "gain": 4,
+    "white": 81099,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 13501,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 15120,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 11505,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 4565,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 12755,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 13154,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 7998,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 2501,
+        "total": 35737
+      }
+    ],
+    "percent": 12.932882138688134
+  },
+  {
+    "gain": 6,
+    "white": 95738,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 14411,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 16498,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 16691,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 6755,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 13974,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 14722,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 9454,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 3233,
+        "total": 35737
+      }
+    ],
+    "percent": 15.26736791074766
+  },
+  {
+    "gain": 8,
+    "white": 103231,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 15038,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 17366,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 18662,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 7714,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 14658,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 15748,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 10381,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 3664,
+        "total": 35737
+      }
+    ],
+    "percent": 16.46227889442428
+  },
+  {
+    "gain": 12,
+    "white": 112914,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 15777,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 18535,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 21197,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 9138,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 15617,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 16922,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 11550,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 4178,
+        "total": 35737
+      }
+    ],
+    "percent": 18.006429842634706
+  }
+]

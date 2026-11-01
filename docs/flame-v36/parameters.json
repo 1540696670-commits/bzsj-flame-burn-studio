@@ -1,0 +1,71 @@
+{
+  "version": 36,
+  "defaults": {
+    "text": "HOODA",
+    "font": "Reference",
+    "background": "#000000",
+    "ink": "#3c5977",
+    "fire": "#1768ff",
+    "durationSeconds": 7,
+    "loop": true,
+    "scale": 1,
+    "height": 1,
+    "glow": 0.75
+  },
+  "simulation": {
+    "engine": "3d-voxel-advection",
+    "resolution": [
+      512,
+      288,
+      16
+    ],
+    "raySamples": 32,
+    "stepsPerSecond": 60,
+    "orbitClockwiseFromAbove": true,
+    "orbitPitchDegrees": 15,
+    "orbitAngularSpeedNominal": 2.4,
+    "camera": "fixed",
+    "rearOcclusion": "glyph-alpha-plane"
+  },
+  "appearance": {
+    "leftEmission": 1,
+    "rightEmission": 0.39,
+    "rightReductionFromOriginalPercent": 61,
+    "whiteCoreGain": 24.45,
+    "whiteCoreTargetPercent": 24.5,
+    "whiteCoreTargetScope": "v32 eight-time weighted calibration; not recalibrated after v33/v34 right emission changes",
+    "surfaceHeatBand": 0.093333,
+    "glyphGapHeightRatio": 0.04,
+    "fireColorContrast": 2,
+    "fireToneContrast": 2
+  },
+  "timing": {
+    "firstStartSeconds": 0.2,
+    "glyphBurnSeconds": 2,
+    "glyphOffsetProgress": "i===0 ? 0 : .3+.5*(i-1)",
+    "fragmentLeadSeconds": 0.3,
+    "smokeOnsetProgress": 0.7,
+    "smokeEnd": "next glyph completion; last glyph completion + .95s"
+  },
+  "referenceCoreCenters": {
+    "A": [
+      0.904,
+      0.311
+    ],
+    "B": [
+      0.533,
+      0.637,
+      0.753
+    ],
+    "C": [
+      0.649,
+      0.801,
+      0.475
+    ]
+  },
+  "notes": [
+    "Parameters summarize defaults; app-v2.js is the full implementation including all coefficients.",
+    "Reference measured values and fitted simulation parameters are distinct.",
+    "No runtime need for reference images, original video, external backend, login or API key."
+  ]
+}

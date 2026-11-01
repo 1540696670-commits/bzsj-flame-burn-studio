@@ -1,0 +1,290 @@
+[
+  {
+    "gain": 16,
+    "white": 119262,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 16257,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 19318,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 22754,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 10272,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 16241,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 17596,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 12333,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 4491,
+        "total": 35737
+      }
+    ],
+    "percent": 19.01874732887242
+  },
+  {
+    "gain": 24,
+    "white": 127794,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 16846,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 20401,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 24611,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 11996,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 17128,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 18444,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 13397,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 4971,
+        "total": 35737
+      }
+    ],
+    "percent": 20.379347957823295
+  },
+  {
+    "gain": 32,
+    "white": 132694,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 17170,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 21006,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 25688,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 12870,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 17720,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 18957,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 14024,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 5259,
+        "total": 35737
+      }
+    ],
+    "percent": 21.16075244467975
+  },
+  {
+    "gain": 48,
+    "white": 138776,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 17567,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 21732,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 27005,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 13885,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 18406,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 19614,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 14906,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 5661,
+        "total": 35737
+      }
+    ],
+    "percent": 22.1306508302024
+  },
+  {
+    "gain": 64,
+    "white": 142655,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 17836,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 22224,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 27826,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 14472,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 18904,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 20017,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 15406,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 5970,
+        "total": 35737
+      }
+    ],
+    "percent": 22.749236137246523
+  },
+  {
+    "gain": 96,
+    "white": 147686,
+    "total": 627076,
+    "frames": [
+      {
+        "time": 1,
+        "white": 18164,
+        "total": 59720
+      },
+      {
+        "time": 1.6,
+        "white": 22861,
+        "total": 96947
+      },
+      {
+        "time": 2.2,
+        "white": 28891,
+        "total": 118500
+      },
+      {
+        "time": 2.8,
+        "white": 15192,
+        "total": 78802
+      },
+      {
+        "time": 3.4,
+        "white": 19496,
+        "total": 87167
+      },
+      {
+        "time": 4,
+        "white": 20578,
+        "total": 71702
+      },
+      {
+        "time": 4.6,
+        "white": 16068,
+        "total": 78501
+      },
+      {
+        "time": 5.2,
+        "white": 6436,
+        "total": 35737
+      }
+    ],
+    "percent": 23.55153123385363
+  }
+]

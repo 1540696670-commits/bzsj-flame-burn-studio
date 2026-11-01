@@ -1,0 +1,1 @@
+{"name":"bzsj-flame-burn-studio","version":"1.0.0","private":true,"description":"Editable WebGL flame and burning typography by BzsJ","license":"MIT","engines":{"node":">=18"},"scripts":{"start":"node scripts/serve.mjs"}}
